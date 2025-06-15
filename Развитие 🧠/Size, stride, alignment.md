@@ -1,0 +1,1 @@
+https://swiftunboxed.com/internals/size-stride-alignment/

@@ -1,0 +1,20 @@
+
+| name                                        | QA  | Prod |
+| ------------------------------------------- | --- | ---- |
+| ft_SEARCHM_call_agreement_enabled           | +   | +    |
+| ft_realty_show_accelerated_deal_badge       | +   | +    |
+| ft_realty_search_compilation_settings_promo | +   | +    |
+| ft_SEARCHM_2Gis_maps                        | +   | +    |
+| ft_SEARCH_dgis_logs_enabled                 | +   | +    |
+| ft_show_rating_banner                       | +   | +    |
+| ft_csi                                      | +   | +    |
+| ft_searchm_scroll_agent_enabled             | +   | +    |
+| ft_searchm_gratitude_bonus                  | +   | +    |
+| ft_search_qrator_cookie_enabled             | +   | +    |
+| ft_search_mobile_techlytics                 | +   | +    |
+| ft_search_map_show_parking_button           | +   | +    |
+| ft_SEARCH_reels_publication                 | +   | +    |
+| period_of_permission_requests_after_launch  | +   | +    |
+| ft_show_cstm_allow_screen_notification      | +   | +    |
+| ft_call_seller_from_application             | +   | +    |
+| ft_new_payment_system_webview               | +   | +    |
